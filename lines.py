@@ -1,6 +1,6 @@
 #open the file, read only
 #s = open('lines.txt', 'r')
-
+#This file is updated. 
 datafile = file('lines.txt')
 string1 = "HELO something"
 for line in datafile:
